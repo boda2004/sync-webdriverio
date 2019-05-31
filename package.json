@@ -21,11 +21,11 @@
   },
   "main": "index.js",
   "dependencies": {
-    "fibers": "^3.1.0",
+    "fibers": "^4.0.1",
     "meteor-promise": "^0.8.2",
     "underscore": "^1.8.3",
     "wdio-sync": "^0.7.0",
     "webdriverio": "^4.14.4",
-    "xolvio-fiber-utils": "github:boda2004/fiber-utils"
+    "xolvio-fiber-utils": "github:boda2004/fiber-utils#node-12"
   }
 }
